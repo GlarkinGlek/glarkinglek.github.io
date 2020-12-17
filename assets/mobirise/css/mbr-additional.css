@@ -1166,8 +1166,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -1267,8 +1265,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -1530,8 +1527,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -1631,8 +1626,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -1966,8 +1960,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -2067,8 +2059,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -2328,8 +2319,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -2429,8 +2418,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -2677,6 +2665,15 @@ a {
     left: -1rem;
   }
 }
+.cid-sjpAmhHqNK {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #8caff0;
+}
+.cid-sjpAmhHqNK .mbr-text {
+  text-align: center;
+  color: #e43f3f;
+}
 .cid-sjmKDQnBe7 {
   background-image: url("../../../assets/images/2020-07-16-10.53.53-1366x768.png");
 }
@@ -2719,8 +2716,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -2820,8 +2815,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -3125,8 +3119,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -3226,8 +3218,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -3506,8 +3497,6 @@ a {
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -3607,8 +3596,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -3884,11 +3872,44 @@ a {
 .cid-sjlG6omYNg .card-title {
   color: #62ac61;
 }
+.cid-sjpPYvZjtz {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #5b534e;
+}
+.cid-sjpPYvZjtz .mbr-section-subtitle {
+  color: #62ac61;
+}
+.cid-sjpPYvZjtz .mbr-section-title {
+  color: #62ac61;
+}
+.cid-sjpRej4lhs {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/2020-07-16-10.37.33-1920x1080.png");
+}
+.cid-sjpRej4lhs .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.2;
+}
+.cid-sjpRej4lhs form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sjpRej4lhs form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sjpRej4lhs form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-sjpRej4lhs .mbr-section-title {
+  color: #62ac61;
+}
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -3988,8 +4009,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
@@ -4236,40 +4256,21 @@ a {
     left: -1rem;
   }
 }
-.cid-sjlP6cb7bP {
-  background-image: url("../../../assets/images/2020-11-04-17.32.04-1920x1057.png");
+.cid-sjpSihYukb {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #5b534e;
 }
-.cid-sjlP6cb7bP .card-wrapper {
-  background: #5b534e;
-  border-radius: 4px;
-}
-@media (max-width: 767px) {
-  .cid-sjlP6cb7bP .card-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-sjlP6cb7bP .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sjlP6cb7bP .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-sjlP6cb7bP .mbr-text,
-.cid-sjlP6cb7bP .mbr-section-btn {
+.cid-sjpSihYukb .mbr-section-title {
   color: #62ac61;
 }
-.cid-sjlP6cb7bP .card-title {
+.cid-sjpSihYukb .mbr-text,
+.cid-sjpSihYukb .mbr-section-btn {
   color: #62ac61;
 }
 .cid-sjlqUbefZa {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjlqUbefZa nav.navbar {
   position: fixed;
@@ -4369,8 +4370,7 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #467145;
+  background: rgba(70, 113, 69, 0.8);
 }
 .cid-sjlqUbefZa .navbar.opened {
   transition: all .3s;
